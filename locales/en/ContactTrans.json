@@ -1,0 +1,20 @@
+{
+  "contact": "Contact Us",
+  "get_touch": "Get in touch",
+  "get_touch_text": "Looking for help? Fill the form and start a new adventure.",
+  "head": "Headquarters",
+  "address": "Qanat Elswes Mansoura,Egypt",
+  "phone": "Phone",
+  "support": "Support",
+  "follow": "Follow Us",
+  "connect": "Let's Connect",
+  "connect_text": "Skills are grounded in developmental and clinical research.",
+  "name_placeholder": "Your name",
+  "name_error": "Please enter a valid name.",
+  "email_placeholder": "Your email",
+  "email_error": "Please enter a valid email.",
+  "subject_placeholder": "Subject",
+  "subject_error": "Please enter a valid subject.",
+  "textarea": "How can we help?",
+  "btn": "Send Message"
+}
